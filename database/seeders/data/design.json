@@ -1,0 +1,1124 @@
+{
+  "ID": {
+    "kitchenBar": "1632583824020-937ae9564495",
+    "kitchenWide": "1686056040167-1e3dead46d9a",
+    "kitchenIsland": "1638886043487-72d203fa66b6",
+    "kitchenWhite": "1507089947368-19c1da9775ae",
+    "kitchenSink": "1696986681436-f5ee12981bc9",
+    "kitchenStove": "1696986681606-b156ccd761c5",
+    "marbleCounter": "1683629357963-adf2b1fa9ad9",
+    "marbleCounter2": "1639405069836-f82aa6dcb900",
+    "islandSink": "1683629357935-f3f4777ddf41",
+    "cabinets": "1663811396777-05505d999151",
+    "counterDetail": "1581783458534-001a466b5487",
+    "tableChairs": "1596205030734-7f2bb470ef09",
+    "breakfastBar": "1686023858216-4f54c853acf2",
+    "counterBrown": "1628745277862-bc0b2d68c50c",
+    "chaise": "1564078516393-cf04bd966897",
+    "hallway": "1630587148265-761cbd139043",
+    "livingSet": "1613545325278-f24b0cae1224",
+    "bedroom": "1562438668-bcf0ca6578f0",
+    "fireplaceDark": "1581784878214-8d5596b98a01",
+    "sofaFire": "1600210491892-03d54c0aaf87",
+    "lobbyWood": "1621293954908-907159247fc8",
+    "pillows": "1518733057094-95b53143d2a7",
+    "woodRoom": "1590381105924-c72589b9ef3f",
+    "sideboard": "1540759772348-12e90305e8f4",
+    "stairs": "1502005229762-cf1b2da7c5d6",
+    "sink": "1576698483491-8c43f0862543",
+    "couchWindow": "1599696848652-f0ff23bc911f",
+    "mattress": "1578683010236-d716f9a3f461"
+  },
+  "CONCEPTS": [
+    {
+      "n": "Kitchen",
+      "d": "The heart of the home, engineered as furniture.",
+      "k": "kitchenBar",
+      "ideas": [
+        [
+          "Island-led open plan",
+          "kitchenWide"
+        ],
+        [
+          "Handleless minimal fronts",
+          "kitchenIsland"
+        ],
+        [
+          "Full-height pantry wall",
+          "kitchenWhite"
+        ]
+      ],
+      "interior": [
+        [
+          "Slab-matched stone worktops",
+          "marbleCounter"
+        ],
+        [
+          "Veneered oak carcass",
+          "counterBrown"
+        ],
+        [
+          "Integrated cove lighting",
+          "kitchenStove"
+        ]
+      ],
+      "acc": [
+        [
+          "Push-to-open hardware",
+          "counterDetail"
+        ],
+        [
+          "Soft-close drawer systems",
+          "islandSink"
+        ],
+        [
+          "Concealed appliance fronts",
+          "cabinets"
+        ]
+      ]
+    },
+    {
+      "n": "Dressing Room",
+      "d": "Wardrobes composed like cabinetry, lit like a boutique.",
+      "k": "hallway",
+      "ideas": [
+        [
+          "Walk-in island with vitrine",
+          "hallway"
+        ],
+        [
+          "Glass-front display bays",
+          "woodRoom"
+        ],
+        [
+          "Mirrored end returns",
+          "sideboard"
+        ]
+      ],
+      "interior": [
+        [
+          "Suede-lined drawer inserts",
+          "pillows"
+        ],
+        [
+          "Smoked glass panels",
+          "fireplaceDark"
+        ],
+        [
+          "Brushed brass hanging rails",
+          "sideboard"
+        ]
+      ],
+      "acc": [
+        [
+          "Sensor shelf lighting",
+          "sideboard"
+        ],
+        [
+          "Pull-out valet rods",
+          "woodRoom"
+        ],
+        [
+          "Jewellery trays",
+          "pillows"
+        ]
+      ]
+    },
+    {
+      "n": "Decoration",
+      "d": "Wall treatments, panelling and applied detail.",
+      "k": "sideboard",
+      "ideas": [
+        [
+          "Fluted wall panelling",
+          "woodRoom"
+        ],
+        [
+          "Stone-inlaid niches",
+          "hallway"
+        ],
+        [
+          "Layered ceiling reveals",
+          "lobbyWood"
+        ]
+      ],
+      "interior": [
+        [
+          "Micro-cement plaster",
+          "chaise"
+        ],
+        [
+          "Veneer with brass reveal",
+          "sideboard"
+        ],
+        [
+          "Fabric-wrapped panels",
+          "pillows"
+        ]
+      ],
+      "acc": [
+        [
+          "Shadow-gap profiles",
+          "hallway"
+        ],
+        [
+          "Linear diffusers",
+          "lobbyWood"
+        ],
+        [
+          "Sculptural wall lights",
+          "fireplaceDark"
+        ]
+      ]
+    },
+    {
+      "n": "TV Decoration",
+      "d": "Media walls in stone, veneer and integrated light.",
+      "k": "sofaFire",
+      "ideas": [
+        [
+          "Book-matched onyx feature wall",
+          "fireplaceDark"
+        ],
+        [
+          "Floating console shelf",
+          "sofaFire"
+        ],
+        [
+          "Recessed screen frame",
+          "livingSet"
+        ]
+      ],
+      "interior": [
+        [
+          "Backlit stone slab",
+          "fireplaceDark"
+        ],
+        [
+          "Matt lacquer volumes",
+          "sofaFire"
+        ],
+        [
+          "Cable-managed cavity",
+          "sideboard"
+        ]
+      ],
+      "acc": [
+        [
+          "Concealed soundbar grille",
+          "livingSet"
+        ],
+        [
+          "Rotating screen mount",
+          "chaise"
+        ],
+        [
+          "Ambient wash lighting",
+          "fireplaceDark"
+        ]
+      ]
+    },
+    {
+      "n": "Bedroom",
+      "d": "Quiet rooms built from soft material contrast.",
+      "k": "bedroom",
+      "ideas": [
+        [
+          "Upholstered headboard wall",
+          "bedroom"
+        ],
+        [
+          "Bedside joinery in veneer",
+          "woodRoom"
+        ],
+        [
+          "Concealed wardrobe run",
+          "mattress"
+        ]
+      ],
+      "interior": [
+        [
+          "Warm oak and wool",
+          "woodRoom"
+        ],
+        [
+          "Plaster ceiling detail",
+          "bedroom"
+        ],
+        [
+          "Layered curtain track",
+          "mattress"
+        ]
+      ],
+      "acc": [
+        [
+          "Reading lights on swing arms",
+          "sideboard"
+        ],
+        [
+          "Charging drawer",
+          "pillows"
+        ],
+        [
+          "Soft-close bedside runners",
+          "woodRoom"
+        ]
+      ]
+    },
+    {
+      "n": "Bathroom",
+      "d": "Slab-matched stone, concealed joinery, spa restraint.",
+      "k": "sink",
+      "ideas": [
+        [
+          "Full-slab shower enclosure",
+          "sink"
+        ],
+        [
+          "Floating stone vanity",
+          "marbleCounter"
+        ],
+        [
+          "Niche-lit mirror wall",
+          "hallway"
+        ]
+      ],
+      "interior": [
+        [
+          "Book-matched marble",
+          "marbleCounter2"
+        ],
+        [
+          "Micro-cement floor",
+          "sink"
+        ],
+        [
+          "Integrated mirror lighting",
+          "hallway"
+        ]
+      ],
+      "acc": [
+        [
+          "Concealed cistern plates",
+          "sink"
+        ],
+        [
+          "Brushed brass brassware",
+          "counterDetail"
+        ],
+        [
+          "Heated towel detail",
+          "pillows"
+        ]
+      ]
+    },
+    {
+      "n": "Library",
+      "d": "Full-height joinery for books, objects and light.",
+      "k": "woodRoom",
+      "ideas": [
+        [
+          "Wall-to-wall bookcase",
+          "woodRoom"
+        ],
+        [
+          "Reading alcove with bench",
+          "chaise"
+        ],
+        [
+          "Ladder-access run",
+          "lobbyWood"
+        ]
+      ],
+      "interior": [
+        [
+          "Stained ash shelving",
+          "woodRoom"
+        ],
+        [
+          "Leather-topped desk",
+          "sideboard"
+        ],
+        [
+          "Shelf-integrated lighting",
+          "lobbyWood"
+        ]
+      ],
+      "acc": [
+        [
+          "Adjustable shelf pins",
+          "sideboard"
+        ],
+        [
+          "Glass display doors",
+          "fireplaceDark"
+        ],
+        [
+          "Concealed document drawers",
+          "pillows"
+        ]
+      ]
+    },
+    {
+      "n": "Coffee Bar",
+      "d": "Compact hospitality built into the residence.",
+      "k": "counterDetail",
+      "ideas": [
+        [
+          "Recessed bar niche",
+          "counterDetail"
+        ],
+        [
+          "Stone-clad serving counter",
+          "marbleCounter"
+        ],
+        [
+          "Backlit bottle display",
+          "fireplaceDark"
+        ]
+      ],
+      "interior": [
+        [
+          "Onyx splashback",
+          "fireplaceDark"
+        ],
+        [
+          "Brushed steel worktop",
+          "islandSink"
+        ],
+        [
+          "Warm timber base units",
+          "counterBrown"
+        ]
+      ],
+      "acc": [
+        [
+          "Integrated machine housing",
+          "counterDetail"
+        ],
+        [
+          "Pull-out bin systems",
+          "cabinets"
+        ],
+        [
+          "Glass rack detail",
+          "breakfastBar"
+        ]
+      ]
+    },
+    {
+      "n": "Stairs",
+      "d": "Structure as sculpture — stone, steel and timber.",
+      "k": "stairs",
+      "ideas": [
+        [
+          "Cantilevered stone treads",
+          "stairs"
+        ],
+        [
+          "Curved timber balustrade",
+          "hallway"
+        ],
+        [
+          "Sculptural stair void",
+          "lobbyWood"
+        ]
+      ],
+      "interior": [
+        [
+          "Solid travertine treads",
+          "stairs"
+        ],
+        [
+          "Blackened steel stringer",
+          "fireplaceDark"
+        ],
+        [
+          "Handrail in oiled oak",
+          "woodRoom"
+        ]
+      ],
+      "acc": [
+        [
+          "Recessed step lighting",
+          "stairs"
+        ],
+        [
+          "Glass balustrade fixings",
+          "hallway"
+        ],
+        [
+          "Concealed nosing detail",
+          "lobbyWood"
+        ]
+      ]
+    },
+    {
+      "n": "Laundry Room",
+      "d": "Utility resolved with the same rigour as the kitchen.",
+      "k": "cabinets",
+      "ideas": [
+        [
+          "Stacked appliance tower",
+          "cabinets"
+        ],
+        [
+          "Folding counter run",
+          "tableChairs"
+        ],
+        [
+          "Ventilated drying cupboard",
+          "kitchenWhite"
+        ]
+      ],
+      "interior": [
+        [
+          "Quartz worktop",
+          "marbleCounter2"
+        ],
+        [
+          "Wipe-clean lacquer fronts",
+          "kitchenWhite"
+        ],
+        [
+          "Sealed board carcass",
+          "cabinets"
+        ]
+      ],
+      "acc": [
+        [
+          "Pull-out hamper bins",
+          "cabinets"
+        ],
+        [
+          "Retractable drying rails",
+          "tableChairs"
+        ],
+        [
+          "Integrated ironing store",
+          "kitchenWhite"
+        ]
+      ]
+    }
+  ],
+  "STYLES": [
+    [
+      "Minimal",
+      "kitchenIsland"
+    ],
+    [
+      "Modern Classic",
+      "tableChairs"
+    ],
+    [
+      "Contemporary Luxury",
+      "fireplaceDark"
+    ],
+    [
+      "Warm Neutral",
+      "woodRoom"
+    ]
+  ],
+  "MATERIALS": [
+    {
+      "n": "Qshra",
+      "g": "Wood & Composites",
+      "k": "woodRoom",
+      "tag": "Timber face",
+      "d": "Natural wood face material, selected for grain movement.",
+      "long": "Workshop terminology for our natural wood-faced boards. Each sheet is chosen for figure and tone, then sequenced so a run of doors reads as one continuous piece of timber.",
+      "spec": [
+        [
+          "Character",
+          "Visible grain, tonal variation, warm"
+        ],
+        [
+          "Applications",
+          "Kitchen fronts, wardrobe doors, wall panelling"
+        ],
+        [
+          "Finish",
+          "Oiled, matt lacquer or open-pore"
+        ]
+      ]
+    },
+    {
+      "n": "Sbugh",
+      "g": "Wood & Composites",
+      "k": "kitchenWhite",
+      "tag": "Sprayed finish",
+      "d": "Sprayed and hand-finished lacquer surface.",
+      "long": "Our spray-and-hand-finish process. Colour is matched to the scheme, then built up in coats and de-nibbed by hand between passes for a surface with no visible orange peel.",
+      "spec": [
+        [
+          "Character",
+          "Uniform, seamless, colour-matched"
+        ],
+        [
+          "Applications",
+          "Doors, panelling, media walls, joinery"
+        ],
+        [
+          "Finish",
+          "Matt, satin or high gloss"
+        ]
+      ]
+    },
+    {
+      "n": "Ballon",
+      "g": "Wood & Composites",
+      "k": "cabinets",
+      "tag": "Pressed panel",
+      "d": "Pressed panel board with a durable decorative face.",
+      "long": "A pressed decorative panel used where a hard-wearing, dimensionally stable face is required. Stable across humidity swings, which makes it well suited to utility rooms and high-traffic joinery.",
+      "spec": [
+        [
+          "Character",
+          "Consistent, hard-wearing, low movement"
+        ],
+        [
+          "Applications",
+          "Laundry, utility, wardrobe interiors"
+        ],
+        [
+          "Finish",
+          "Textured or smooth decorative face"
+        ]
+      ]
+    },
+    {
+      "n": "MDF",
+      "g": "Wood & Composites",
+      "k": "tableChairs",
+      "tag": "Engineered core",
+      "d": "Engineered core for precision machining and profiling.",
+      "long": "The core we machine when a profile has to be exact. Routed, moulded and sealed in-house, it carries lacquer better than any solid timber and holds a crisp edge indefinitely.",
+      "spec": [
+        [
+          "Character",
+          "Dense, homogeneous, machinable"
+        ],
+        [
+          "Applications",
+          "Profiled doors, fluting, curved forms"
+        ],
+        [
+          "Finish",
+          "Primed and sprayed"
+        ]
+      ]
+    },
+    {
+      "n": "Onyx",
+      "g": "Stones & Minerals",
+      "k": "fireplaceDark",
+      "tag": "Translucent",
+      "d": "Translucent stone, at its best when backlit.",
+      "long": "Reserved for one gesture per project — a media wall, a bar front, a vanity. Backlighting turns the veining into the light source itself, so the slab is selected and laid out before anything else is specified.",
+      "spec": [
+        [
+          "Character",
+          "Translucent, dramatic veining, unique"
+        ],
+        [
+          "Applications",
+          "Feature walls, bar fronts, vanities"
+        ],
+        [
+          "Finish",
+          "Polished, resin-backed"
+        ]
+      ]
+    },
+    {
+      "n": "Porcelain",
+      "g": "Stones & Minerals",
+      "k": "sink",
+      "tag": "Large format",
+      "d": "Large-format engineered slab with stone graphics.",
+      "long": "Where a stone look is wanted in a wet or heavily used area, large-format porcelain gives near-seamless coverage with almost no porosity and minimal thickness at the joint.",
+      "spec": [
+        [
+          "Character",
+          "Non-porous, thin, large-format"
+        ],
+        [
+          "Applications",
+          "Bathrooms, worktops, floors, cladding"
+        ],
+        [
+          "Finish",
+          "Matt, polished or structured"
+        ]
+      ]
+    },
+    {
+      "n": "Quartz",
+      "g": "Stones & Minerals",
+      "k": "marbleCounter",
+      "tag": "Engineered",
+      "d": "Engineered surface built for daily work.",
+      "long": "The default worktop where a kitchen is used hard. Consistent from slab to slab, so a large island can be run without a visible change in pattern.",
+      "spec": [
+        [
+          "Character",
+          "Consistent, stain-resistant, hard"
+        ],
+        [
+          "Applications",
+          "Worktops, islands, laundry counters"
+        ],
+        [
+          "Finish",
+          "Polished or honed"
+        ]
+      ]
+    },
+    {
+      "n": "Acrylic",
+      "g": "Stones & Minerals",
+      "k": "islandSink",
+      "tag": "Seamless",
+      "d": "Seamless solid surface with thermoformable edges.",
+      "long": "Used where a run has to be visually continuous — integrated sinks, coved upstands, curved counters. Joints are bonded and sanded back until they disappear.",
+      "spec": [
+        [
+          "Character",
+          "Seamless, repairable, formable"
+        ],
+        [
+          "Applications",
+          "Vanities, integrated sinks, curved counters"
+        ],
+        [
+          "Finish",
+          "Matt or satin"
+        ]
+      ]
+    },
+    {
+      "n": "Marble",
+      "g": "Stones & Minerals",
+      "k": "marbleCounter2",
+      "tag": "Book-matched",
+      "d": "Classical stone, book-matched wherever possible.",
+      "long": "Selected slab by slab at the yard. Where the layout allows we book-match adjacent slabs so the veining mirrors across a wall or vanity — a decision that has to be made at purchase, not at installation.",
+      "spec": [
+        [
+          "Character",
+          "Veined, cool, classical"
+        ],
+        [
+          "Applications",
+          "Bathrooms, vanities, feature walls, stairs"
+        ],
+        [
+          "Finish",
+          "Polished, honed or brushed"
+        ]
+      ]
+    },
+    {
+      "n": "Granite",
+      "g": "Stones & Minerals",
+      "k": "kitchenStove",
+      "tag": "Heavy duty",
+      "d": "Dense natural stone for heavy-duty surfaces.",
+      "long": "Where durability outranks delicacy. Excellent against heat and abrasion, which keeps it relevant for working kitchens and exterior-adjacent surfaces.",
+      "spec": [
+        [
+          "Character",
+          "Very hard, granular, heat-resistant"
+        ],
+        [
+          "Applications",
+          "Worktops, outdoor kitchens, thresholds"
+        ],
+        [
+          "Finish",
+          "Polished, flamed or honed"
+        ]
+      ]
+    },
+    {
+      "n": "Travertine",
+      "g": "Stones & Minerals",
+      "k": "stairs",
+      "tag": "Linear",
+      "d": "Warm, porous stone with a linear character.",
+      "long": "Vein-cut for a striated, architectural read; cross-cut for a cloudier one. Filled and honed for interior use, it carries a warmth that marble does not.",
+      "spec": [
+        [
+          "Character",
+          "Warm, linear, tactile"
+        ],
+        [
+          "Applications",
+          "Stairs, floors, bathroom walls, benches"
+        ],
+        [
+          "Finish",
+          "Filled and honed, or brushed"
+        ]
+      ]
+    },
+    {
+      "n": "Crystal",
+      "g": "Stones & Minerals",
+      "k": "pillows",
+      "tag": "Backlit",
+      "d": "Backlit mineral panels used as light objects.",
+      "long": "Specified sparingly, as a jewel. Panels are edge-lit or back-lit so the mineral structure becomes visible — most often in a bar, a niche or a powder room.",
+      "spec": [
+        [
+          "Character",
+          "Refractive, luminous, delicate"
+        ],
+        [
+          "Applications",
+          "Bar fronts, niches, decorative panels"
+        ],
+        [
+          "Finish",
+          "Polished, backlit"
+        ]
+      ]
+    },
+    {
+      "n": "Precious Stone",
+      "g": "Stones & Minerals",
+      "k": "sideboard",
+      "tag": "Reserved",
+      "d": "Semi-precious slabs for singular moments.",
+      "long": "Sourced to order and treated as artwork: a single vanity top, a tabletop, an inlay. Availability drives the design rather than the reverse.",
+      "spec": [
+        [
+          "Character",
+          "Rare, saturated, high value"
+        ],
+        [
+          "Applications",
+          "Vanity tops, inlays, tabletops"
+        ],
+        [
+          "Finish",
+          "Polished, resin-backed"
+        ]
+      ]
+    },
+    {
+      "n": "Special Stone",
+      "g": "Stones & Minerals",
+      "k": "hallway",
+      "tag": "Commissioned",
+      "d": "Commissioned selections outside the standard range.",
+      "long": "For clients who want a stone nobody else has. We shortlist at the quarry or the yard, reserve the block, and design the layout around the slab that arrives.",
+      "spec": [
+        [
+          "Character",
+          "Client-specific, reserved by block"
+        ],
+        [
+          "Applications",
+          "Any feature surface"
+        ],
+        [
+          "Finish",
+          "To specification"
+        ]
+      ]
+    }
+  ],
+  "PROJECTS": [
+    {
+      "n": "Villa Sarwaran",
+      "loc": "Erbil",
+      "cat": "Residential",
+      "st": "Completed",
+      "yr": "2025",
+      "k": "livingSet",
+      "gal": [
+        "stairs",
+        "marbleCounter",
+        "woodRoom",
+        "hallway"
+      ],
+      "h": "A family villa resolved room by room, in one material language",
+      "b": "Eleven rooms of joinery drawn, manufactured and installed by Novera over fourteen months. A single oak and travertine palette runs from the entrance stair through the kitchen, dressing rooms and bathrooms, so the house reads as one continuous decision rather than eleven separate ones.",
+      "mats": [
+        "Qshra",
+        "Travertine",
+        "Quartz",
+        "Marble"
+      ],
+      "cons": [
+        "Kitchen",
+        "Dressing Room",
+        "Stairs",
+        "Bathroom"
+      ]
+    },
+    {
+      "n": "Ashti Penthouse",
+      "loc": "Sulaymaniyah",
+      "cat": "Residential",
+      "st": "Completed",
+      "yr": "2024",
+      "k": "lobbyWood",
+      "gal": [
+        "fireplaceDark",
+        "sofaFire",
+        "sideboard",
+        "pillows"
+      ],
+      "h": "A top-floor apartment built around a backlit onyx spine",
+      "b": "The brief asked for one dramatic gesture. We reserved a single onyx block, book-matched it across the media wall and the bar front, and kept every other surface deliberately quiet so the stone carries the room.",
+      "mats": [
+        "Onyx",
+        "Sbugh",
+        "Acrylic",
+        "Crystal"
+      ],
+      "cons": [
+        "TV Decoration",
+        "Coffee Bar",
+        "Bedroom"
+      ]
+    },
+    {
+      "n": "Novera Showroom",
+      "loc": "Erbil",
+      "cat": "Commercial",
+      "st": "Completed",
+      "yr": "2026",
+      "k": "kitchenWide",
+      "gal": [
+        "kitchenIsland",
+        "marbleCounter2",
+        "hallway",
+        "counterDetail"
+      ],
+      "h": "Our own space, used as a working sample",
+      "b": "Full-scale rooms rather than display panels: a complete kitchen, a walk-in dressing room, a bathroom and a material wall of fourteen families. Everything on show is specifiable, and everything was made in our factory.",
+      "mats": [
+        "Marble",
+        "Qshra",
+        "Porcelain",
+        "Precious Stone"
+      ],
+      "cons": [
+        "Kitchen",
+        "Dressing Room",
+        "Decoration"
+      ]
+    },
+    {
+      "n": "Dream City Residence",
+      "loc": "Erbil",
+      "cat": "Residential",
+      "st": "Ongoing",
+      "yr": "2026",
+      "k": "fireplaceDark",
+      "gal": [
+        "sofaFire",
+        "cabinets",
+        "woodRoom",
+        "sideboard"
+      ],
+      "h": "A dark, architectural interior for a young family",
+      "b": "Smoked veneer, blackened steel and low-level lighting across the ground floor, with a warmer neutral palette upstairs. Currently in manufacturing, with installation phased room by room around the family moving in.",
+      "mats": [
+        "Sbugh",
+        "Granite",
+        "Quartz",
+        "Ballon"
+      ],
+      "cons": [
+        "Kitchen",
+        "Library",
+        "Laundry Room"
+      ]
+    },
+    {
+      "n": "Zagros Retreat",
+      "loc": "Duhok",
+      "cat": "Residential",
+      "st": "Ongoing",
+      "yr": "2026",
+      "k": "stairs",
+      "gal": [
+        "sink",
+        "woodRoom",
+        "bedroom",
+        "hallway"
+      ],
+      "h": "A mountain house where the stone came before the drawings",
+      "b": "Local travertine was selected at the quarry and the plan was adjusted to suit the block. Stair, floor and bathroom surfaces all come out of the same reserved material, which keeps the house tied to its site.",
+      "mats": [
+        "Travertine",
+        "Qshra",
+        "MDF"
+      ],
+      "cons": [
+        "Stairs",
+        "Bathroom",
+        "Bedroom"
+      ]
+    },
+    {
+      "n": "Empire Office Tower",
+      "loc": "Erbil",
+      "cat": "Commercial",
+      "st": "Completed",
+      "yr": "2025",
+      "k": "woodRoom",
+      "gal": [
+        "lobbyWood",
+        "sideboard",
+        "counterDetail",
+        "chaise"
+      ],
+      "h": "Executive floors detailed to residential standards",
+      "b": "Reception, boardroom and four executive suites. Commercial durability requirements met without commercial detailing: the same soft-close hardware, shadow gaps and veneer sequencing we use in private houses.",
+      "mats": [
+        "Qshra",
+        "Porcelain",
+        "Quartz"
+      ],
+      "cons": [
+        "Decoration",
+        "Coffee Bar",
+        "Library"
+      ]
+    },
+    {
+      "n": "Rania Family House",
+      "loc": "Rania",
+      "cat": "Residential",
+      "st": "Completed",
+      "yr": "2023",
+      "k": "kitchenWhite",
+      "gal": [
+        "tableChairs",
+        "bedroom",
+        "cabinets",
+        "kitchenStove"
+      ],
+      "h": "A first full-house commission, still performing",
+      "b": "Delivered three years ago and revisited for this portfolio. The hardware still closes softly, the lacquer has held its colour, and the client has since commissioned the guest annexe.",
+      "mats": [
+        "Sbugh",
+        "MDF",
+        "Quartz",
+        "Ballon"
+      ],
+      "cons": [
+        "Kitchen",
+        "Bedroom",
+        "Laundry Room"
+      ]
+    },
+    {
+      "n": "Lalav Hotel Suites",
+      "loc": "Erbil",
+      "cat": "Commercial",
+      "st": "Ongoing",
+      "yr": "2026",
+      "k": "bedroom",
+      "gal": [
+        "mattress",
+        "sink",
+        "sofaFire",
+        "pillows"
+      ],
+      "h": "Twenty-four suites from one repeatable joinery set",
+      "b": "A single suite was prototyped in the factory, signed off in the showroom, then value-engineered into a production set of twenty-four. Installation runs floor by floor while the hotel stays partially open.",
+      "mats": [
+        "Ballon",
+        "Porcelain",
+        "Acrylic",
+        "Sbugh"
+      ],
+      "cons": [
+        "Bedroom",
+        "Bathroom",
+        "TV Decoration"
+      ]
+    },
+    {
+      "n": "Baranan Kitchen Atelier",
+      "loc": "Sulaymaniyah",
+      "cat": "Commercial",
+      "st": "Completed",
+      "yr": "2024",
+      "k": "kitchenStove",
+      "gal": [
+        "islandSink",
+        "breakfastBar",
+        "counterDetail",
+        "marbleCounter"
+      ],
+      "h": "A working kitchen that has to look like a showroom",
+      "b": "A cookery school where every surface is used daily and photographed weekly. Granite and quartz where the work happens, veneer and lacquer where the camera looks.",
+      "mats": [
+        "Granite",
+        "Quartz",
+        "Qshra"
+      ],
+      "cons": [
+        "Kitchen",
+        "Coffee Bar"
+      ]
+    }
+  ],
+  "SERVICES": [
+    {
+      "num": "01",
+      "name": "Design",
+      "k": "sideboard",
+      "body": "We start in the space. Measurements, light, circulation and how the room will actually be used become a set of drawings you can read without an architect present.",
+      "points": [
+        "On-site survey and measured drawings",
+        "Plans, elevations and 3D visualisation",
+        "Lighting and services coordination"
+      ]
+    },
+    {
+      "num": "02",
+      "name": "Consultation",
+      "k": "counterDetail",
+      "body": "Ideas, materials, functionality and details are refined together — in the showroom, with real slabs and working samples on the table rather than a rendering on a screen.",
+      "points": [
+        "Showroom material selection",
+        "Hardware and finish sign-off",
+        "Costed options and programme"
+      ]
+    },
+    {
+      "num": "03",
+      "name": "Manufacturing",
+      "k": "kitchenSink",
+      "body": "Production happens in our own factory. Machining to the millimetre, veneering and spraying in controlled conditions, hand finishing before anything is crated.",
+      "points": [
+        "CNC machining and panel processing",
+        "In-house spray and veneer",
+        "Pre-assembly and quality check"
+      ]
+    },
+    {
+      "num": "04",
+      "name": "Installation",
+      "k": "islandSink",
+      "body": "The same team that drew the detail fits it. Site protection, sequenced delivery, stone templating on site, and a snag-free handover walk with the client.",
+      "points": [
+        "Sequenced site delivery",
+        "On-site stone templating and fitting",
+        "Handover walk and aftercare"
+      ]
+    }
+  ],
+  "GOLD": "#F2D9A0",
+  "INK": "#0B0F22",
+  "MUTED": "#6C7490",
+  "U": "https://images.unsplash.com/photo-"
+}
